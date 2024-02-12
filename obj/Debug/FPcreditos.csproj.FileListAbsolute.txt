@@ -1,0 +1,47 @@
+C:\Users\jcanez\Documents\Visual Studio 2008\Projects\FPcreditos\FPcreditos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jcanez\Documents\Visual Studio 2008\Projects\FPcreditos\FPcreditos\obj\Debug\FPcreditos.Form1.resources
+C:\Users\jcanez\Documents\Visual Studio 2008\Projects\FPcreditos\FPcreditos\obj\Debug\FPcreditos.Properties.Resources.resources
+C:\Users\jcanez\Documents\Visual Studio 2008\Projects\FPcreditos\FPcreditos\obj\Debug\FPcreditos.csproj.GenerateResource.Cache
+C:\Users\jcanez\Documents\Visual Studio 2008\Projects\FPcreditos\FPcreditos\bin\Debug\FPcreditos.exe
+C:\Users\jcanez\Documents\Visual Studio 2008\Projects\FPcreditos\FPcreditos\bin\Debug\FPcreditos.pdb
+C:\Users\jcanez\Documents\Visual Studio 2008\Projects\FPcreditos\FPcreditos\obj\Debug\FPcreditos.exe
+C:\Users\jcanez\Documents\Visual Studio 2008\Projects\FPcreditos\FPcreditos\obj\Debug\FPcreditos.pdb
+C:\Users\jcanez\Documents\Visual Studio 2008\Projects\FPcreditos\FPcreditos\bin\Debug\FPcreditos.exe.manifest
+C:\Users\jcanez\Documents\Visual Studio 2008\Projects\FPcreditos\FPcreditos\bin\Debug\FPcreditos.application
+C:\Users\jcanez\Documents\Visual Studio 2008\Projects\FPcreditos\FPcreditos\obj\Debug\FPcreditos.exe.manifest
+C:\Users\jcanez\Documents\Visual Studio 2008\Projects\FPcreditos\FPcreditos\obj\Debug\FPcreditos.application
+C:\Users\jcanez\Documents\Visual Studio 2008\Projects\FPcreditos\FPcreditos\obj\Debug\FPcreditos.frmBuscaNomina.resources
+C:\Users\jcanez\Documents\Visual Studio 2008\Projects\FPcreditos\FPcreditos\obj\Debug\FPcreditos.frmAplicado.resources
+C:\Users\jcanez\Documents\Visual Studio 2008\Projects\FPcreditos\FPcreditos\obj\Debug\FPcreditos.frmDetallesPension.resources
+C:\Users\jcanez\Documents\Visual Studio 2008\Projects\FPcreditos2.0\FPcreditos\FPcreditos\obj\Debug\FPcreditos.exe
+C:\Users\jcanez\Documents\Visual Studio 2008\Projects\FPcreditos2.0\FPcreditos\FPcreditos\obj\Debug\FPcreditos.pdb
+C:\Users\jcanez\Documents\Visual Studio 2008\Projects\FPcreditos2.0\FPcreditos\FPcreditos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jcanez\Documents\Visual Studio 2008\Projects\FPcreditos2.0\FPcreditos\FPcreditos\obj\Debug\FPcreditos.Form1.resources
+C:\Users\jcanez\Documents\Visual Studio 2008\Projects\FPcreditos2.0\FPcreditos\FPcreditos\obj\Debug\FPcreditos.frmAplicado.resources
+C:\Users\jcanez\Documents\Visual Studio 2008\Projects\FPcreditos2.0\FPcreditos\FPcreditos\obj\Debug\FPcreditos.frmBuscaNomina.resources
+C:\Users\jcanez\Documents\Visual Studio 2008\Projects\FPcreditos2.0\FPcreditos\FPcreditos\obj\Debug\FPcreditos.frmDetallesPension.resources
+C:\Users\jcanez\Documents\Visual Studio 2008\Projects\FPcreditos2.0\FPcreditos\FPcreditos\obj\Debug\FPcreditos.Properties.Resources.resources
+C:\Users\jcanez\Documents\Visual Studio 2008\Projects\FPcreditos2.0\FPcreditos\FPcreditos\obj\Debug\FPcreditos.csproj.GenerateResource.Cache
+C:\Users\jcanez\Documents\Visual Studio 2008\Projects\FPcreditos2.0\FPcreditos\FPcreditos\bin\Debug\FPcreditos.exe.manifest
+C:\Users\jcanez\Documents\Visual Studio 2008\Projects\FPcreditos2.0\FPcreditos\FPcreditos\bin\Debug\FPcreditos.application
+C:\Users\jcanez\Documents\Visual Studio 2008\Projects\FPcreditos2.0\FPcreditos\FPcreditos\bin\Debug\FPcreditos.exe
+C:\Users\jcanez\Documents\Visual Studio 2008\Projects\FPcreditos2.0\FPcreditos\FPcreditos\bin\Debug\FPcreditos.pdb
+C:\Users\jcanez\Documents\Visual Studio 2008\Projects\FPcreditos2.0\FPcreditos\FPcreditos\obj\Debug\FPcreditos.exe.manifest
+C:\Users\jcanez\Documents\Visual Studio 2008\Projects\FPcreditos2.0\FPcreditos\FPcreditos\obj\Debug\FPcreditos.application
+C:\Users\jcanez\Documents\sistemas VS\FPcreditos2.0\FPcreditos\FPcreditos\obj\Debug\FPcreditos.exe
+C:\Users\jcanez\Documents\sistemas VS\FPcreditos2.0\FPcreditos\FPcreditos\obj\Debug\FPcreditos.pdb
+C:\Users\jcanez\Documents\sistemas VS\FPcreditos2.0\FPcreditos\FPcreditos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jcanez\Documents\sistemas VS\FPcreditos2.0\FPcreditos\FPcreditos\obj\Debug\FPcreditos.Form1.resources
+C:\Users\jcanez\Documents\sistemas VS\FPcreditos2.0\FPcreditos\FPcreditos\obj\Debug\FPcreditos.frmAplicado.resources
+C:\Users\jcanez\Documents\sistemas VS\FPcreditos2.0\FPcreditos\FPcreditos\obj\Debug\FPcreditos.frmBuscaNomina.resources
+C:\Users\jcanez\Documents\sistemas VS\FPcreditos2.0\FPcreditos\FPcreditos\obj\Debug\FPcreditos.frmDetallesPension.resources
+C:\Users\jcanez\Documents\sistemas VS\FPcreditos2.0\FPcreditos\FPcreditos\obj\Debug\FPcreditos.Properties.Resources.resources
+C:\Users\jcanez\Documents\sistemas VS\FPcreditos2.0\FPcreditos\FPcreditos\obj\Debug\FPcreditos.csproj.GenerateResource.Cache
+C:\Users\jcanez\Documents\sistemas VS\FPcreditos2.0\FPcreditos\FPcreditos\bin\Debug\FPcreditos.exe.manifest
+C:\Users\jcanez\Documents\sistemas VS\FPcreditos2.0\FPcreditos\FPcreditos\bin\Debug\FPcreditos.application
+C:\Users\jcanez\Documents\sistemas VS\FPcreditos2.0\FPcreditos\FPcreditos\bin\Debug\FPcreditos.exe
+C:\Users\jcanez\Documents\sistemas VS\FPcreditos2.0\FPcreditos\FPcreditos\bin\Debug\FPcreditos.pdb
+C:\Users\jcanez\Documents\sistemas VS\FPcreditos2.0\FPcreditos\FPcreditos\obj\Debug\FPcreditos.exe.manifest
+C:\Users\jcanez\Documents\sistemas VS\FPcreditos2.0\FPcreditos\FPcreditos\obj\Debug\FPcreditos.application
+C:\Users\jcanez\Desktop\Respaldo jcanez\Documents\sistemas VS\sistemas para usar 2024\FPcreditos2.0\FPcreditos\FPcreditos\obj\Debug\FPcreditos.exe
+C:\Users\jcanez\Desktop\Respaldo jcanez\Documents\sistemas VS\sistemas para usar 2024\FPcreditos2.0\FPcreditos\FPcreditos\obj\Debug\FPcreditos.pdb
